@@ -1,0 +1,44 @@
+.bg-download{
+    background-image: url(../img/bg-about.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.download h1{
+    text-align: center;
+    font-family: 'ExtraBold';
+    font-size: 40px;
+    color: #18cfab;
+    padding-top: 6.5%;
+    text-transform: uppercase;
+}
+
+.download p{
+    text-align: center;
+    font-family: 'Regular';
+    font-size: 14px;
+    line-height: 40px;
+    color: #d8d8d8;
+    padding-bottom: 4%;
+}
+
+.btn2{
+    text-align: center;
+    padding-bottom: 6.5%;
+}
+
+.btn2 a{
+    display:inline-flex;
+    width: 165px;
+    height: 60px;
+    border-top: 5px solid #fff;
+    border-radius: 5px;
+    color:#fff;
+    text-transform: uppercase;
+    font-family: 'ExtraBold';
+    justify-content: center;
+    align-items: center;
+    background-color: #18cfab;
+    font-size: 13px;
+}
